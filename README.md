@@ -60,6 +60,10 @@ python leaf_disk_experiment_graph.py
 * `leaf_disk_experiment_graph.py`: Python script for generating the line graph of the Leaf Disk Photosynthesis Experiment.
 * `leaf_disk_experiment_graph.png`: Sample output graph.
 
+## Data
+
+![1699387453914](image/README/1699387453914.png)
+
 ## License
 
 This script is provided under the MIT License. Feel free to use and modify it for your own experiments and projects.
