@@ -4,6 +4,8 @@
 
 This repository contains a Python script for generating a line graph of the Leaf Disk Photosynthesis Experiment. The script visualizes the number of leaves floating under high light, low light, and control conditions over a 1-20 minute time range.
 
+![1699329370477](image/README/1699329370477.png)
+
 ## Usage
 
 1. Make sure you have Python and Matplotlib installed on your system.
